@@ -10,7 +10,7 @@ if __name__ == "__main__":
     print(grupo1)
     print(grupo1.grado)
 
-    grupo2 = Grupo("Grupo 5", [], ["Alejandro", "Carlos"])
+    grupo2 = Grupo("Grupo 5", ["Alejandro", "Carlos"])
 
     grupo3 = Grupo()
     grupo4 = Grupo()
